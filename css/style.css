@@ -656,6 +656,7 @@ footer .link-group a:hover {
   background-color: #fca61f;
   color: #fff;
   animation: pulse 3s infinite;
+  z-index: 9999 !important;
 }
 #btn-back-to-top:hover {
   background-color: #6f34fe;
